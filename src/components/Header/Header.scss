@@ -1,0 +1,11 @@
+.cart  {
+    display: flex;
+    color: #fff;
+    position: relative;
+    p {
+      position: absolute;
+      top: -1rem;
+      right: -1rem;
+      font-weight: 500;
+    }
+}
